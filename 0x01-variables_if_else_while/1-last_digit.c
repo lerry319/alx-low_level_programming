@@ -1,15 +1,15 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
-/*
- * main -Entry point
+/**
+ * main - Entry point
  *
  * Description: Prints the last digit of a RGM and whether
  * it is greater than 5,less than 6 or 0.
  *
- *Return: Always 0(success)
+ * Return: Always 0 (success)
  */
-int main(void)/*main -entry point*/
+int main(void)
 {
 	int n;
 
