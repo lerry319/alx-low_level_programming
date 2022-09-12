@@ -17,7 +17,7 @@ int main(void)
 			putchar((num1 % 10) + '0');
 			putchar(' ');
 			putchar((num2 / 10) + '0');
-			putcha((num2 % 10) + '0');
+			putchar((num2 % 10) + '0');
 
 			if (num1 == 98 && num2 == 9)
 				continue;
